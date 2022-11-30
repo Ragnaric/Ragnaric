@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, my name is Jonathan. 👋
+
+I am a full-stack software engineer with a preference for front-end development.
+I enjoy discussing philosophy, particularly ethics, and I am a vegetarian for ethical reasons.
+I also enjoy playing videogames, card games, and board games.
 
 <!--
 **Ragnaric/Ragnaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
