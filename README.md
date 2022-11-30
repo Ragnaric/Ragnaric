@@ -8,9 +8,10 @@ I also enjoy playing videogames, card games, and board games.
 
 #### Front-end
 
-![react](https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB)
 
-[#61DAFB](https://img.shields.io/badge/Powered%20by-PostgreSQL-blue.svg)
+![tailwind](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4)
+
 
 <!--
 **Ragnaric/Ragnaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
