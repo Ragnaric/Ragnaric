@@ -10,7 +10,9 @@ I also enjoy playing videogames, card games, and board games.
 
 ![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB)
 
-![tailwind](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4)
+![tailwind](https://img.shields.io/badge/TailwindCSS-5A29E4?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4)
+
+![tailwind](https://img.shields.io/badge/Axios-yellow?style=for-the-badge&logo=Axios&logoColor=5A29E4)
 
 
 <!--
