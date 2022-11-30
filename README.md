@@ -8,7 +8,7 @@ I also enjoy playing videogames, card games, and board games.
 
 #### Front-end
 
-![react](https://img.shields.io/badge/GitHub-#61DAFB?style=for-the-badge&logo=GitHub&logoColor=white)
+![react](https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=React&logoColor=white)
 
 #61DAFB
 
