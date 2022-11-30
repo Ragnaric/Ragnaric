@@ -4,7 +4,7 @@ I am a full-stack software engineer with a preference for front-end development.
 I am a philosophy enthusiast, and enjoy discussing all manner of thought experiments and ideas. I value free speech when used in good faith for intellectual discourse; as such, I do not believe any idea is taboo or above criticism. 
 In my younger years I played chess competitively, but I haven't played ever since I completed medical school. These days I indulge in playing videogames, card games, and board games that have an emphasis on strategy and tactical elements.
 
-### I am working with the following tech to varying degrees:
+### I am working or have worked with the following tech to varying degrees:
 
 #### Front-end
 
