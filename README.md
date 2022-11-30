@@ -8,11 +8,23 @@ I also enjoy playing videogames, card games, and board games.
 
 #### Front-end
 
+![javascript](https://img.shields.io/badge/JavaScript-purple?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+
+![html5](https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+
+![css3](https://img.shields.io/badge/CSS3-DD3A0A?style=for-the-badge&logo=CSS3&logoColor=white)
+
 ![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB)
 
 ![tailwind](https://img.shields.io/badge/TailwindCSS-5A29E4?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4)
 
-![tailwind](https://img.shields.io/badge/Axios-yellow?style=for-the-badge&logo=Axios&logoColor=5A29E4)
+![mui](https://img.shields.io/badge/MUI-green?style=for-the-badge&logo=MUI&logoColor=007FFF)
+
+![axios](https://img.shields.io/badge/Axios-yellow?style=for-the-badge&logo=Axios&logoColor=5A29E4)
+
+#### Back-end
+
+![express](https://img.shields.io/badge/Express-red?style=for-the-badge&logo=Express&logoColor=000000)
 
 
 <!--
