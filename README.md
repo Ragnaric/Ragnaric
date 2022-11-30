@@ -4,6 +4,10 @@ I am a full-stack software engineer with a preference for front-end development.
 I enjoy discussing philosophy, particularly ethics, and I am a vegetarian for ethical reasons.
 I also enjoy playing videogames, card games, and board games.
 
+### I am working with the following tech:
+
+#### Front-end
+
 <!--
 **Ragnaric/Ragnaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
