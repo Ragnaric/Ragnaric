@@ -12,16 +12,23 @@ When I was younger I played chess competitively, but I haven't played in a very 
 
 #### Back-end
 
-![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=000000) ![express](https://img.shields.io/badge/Express-red?style=for-the-badge&logo=Express&logoColor=000000) ![firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=000000) ![express](https://img.shields.io/badge/Express-red?style=for-the-badge&logo=Express&logoColor=000000) ![firebase](https://img.shields.io/badge/Firebase-9C390D?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
 
 #### Database Management Systems
 
-![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-00B2FF?style=for-the-badge&logo=MySQL&logoColor=white) ![firebase](https://img.shields.io/badge/Firestore-orange?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
+![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-00B2FF?style=for-the-badge&logo=MySQL&logoColor=white) ![firebase](https://img.shields.io/badge/Firestore-9C390D?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
 
+#### Testing
 
+![k6](https://img.shields.io/badge/K6-F6F2DD?style=for-the-badge&logo=K6&logoColor=7D64FF) ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white) ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 
+#### Hosting
 
+![aws](https://img.shields.io/badge/AmazonAWS-FFCA28?style=for-the-badge&logo=AmazonAWS&logoColor=black) ![firebase](https://img.shields.io/badge/Firebase-9C390D?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
 
+#### Developer Tools
+
+![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white) ![babel](https://img.shields.io/badge/Babel-gray?style=for-the-badge&logo=Babel&logoColor=F9DC3E) ![vscode](https://img.shields.io/badge/VisualStudioCode-1A1F71?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC) ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white) ![eslint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white) ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
 <!--
 **Ragnaric/Ragnaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
