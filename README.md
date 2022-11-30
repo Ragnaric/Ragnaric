@@ -1,4 +1,4 @@
-### Hello, my name is Jonathan. 👋
+## Hello, my name is Jonathan. 👋
 
 I am a full-stack software engineer with a preference for front-end development.
 I enjoy discussing philosophy, particularly ethics, and I am a vegetarian for ethical reasons.
