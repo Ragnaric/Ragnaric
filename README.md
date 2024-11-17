@@ -8,11 +8,11 @@ In my younger years I played chess competitively, but I haven't played ever sinc
 
 #### Front-end
 
-![javascript](https://img.shields.io/badge/JavaScript-purple?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)  ![html5](https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=HTML5&logoColor=E34F26) ![css3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white) ![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB) ![tailwind](https://img.shields.io/badge/TailwindCSS-5A29E4?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4) ![mui](https://img.shields.io/badge/MUI-46E3B7?style=for-the-badge&logo=MUI&logoColor=007FFF) ![axios](https://img.shields.io/badge/Axios-yellow?style=for-the-badge&logo=Axios&logoColor=5A29E4)
+![javascript](https://img.shields.io/badge/JavaScript-purple?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E) ![typescript](https://img.shields.io/badge/TypeScript-F6F2DD?style=for-the-badge&logo=TypeScript&logoColor=4169E1) ![html5](https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=HTML5&logoColor=E34F26) ![css3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white) ![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB) ![tailwind](https://img.shields.io/badge/TailwindCSS-5A29E4?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4) ![Flutter](https://img.shields.io/badge/Flutter-F0F0F0?style=for-the-badge&logo=Flutter&logoColor=007FFF) ![dart](https://img.shields.io/badge/Dart-00B2FF?style=for-the-badge&logo=Dart&logoColor=white)
 
 #### Back-end
 
-![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=000000) ![express](https://img.shields.io/badge/Express-red?style=for-the-badge&logo=Express&logoColor=000000) ![firebase](https://img.shields.io/badge/Firebase-9C390D?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=000000) ![axios](https://img.shields.io/badge/Axios-yellow?style=for-the-badge&logo=Axios&logoColor=5A29E4) ![express](https://img.shields.io/badge/Express-red?style=for-the-badge&logo=Express&logoColor=000000) ![firebase](https://img.shields.io/badge/Firebase-9C390D?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
 
 #### Database Management Systems
 
@@ -20,7 +20,7 @@ In my younger years I played chess competitively, but I haven't played ever sinc
 
 #### Testing
 
-![k6](https://img.shields.io/badge/K6-F6F2DD?style=for-the-badge&logo=K6&logoColor=7D64FF) ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white) ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
+![k6](https://img.shields.io/badge/K6-F6F2DD?style=for-the-badge&logo=K6&logoColor=7D64FF) ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white) ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white) 
 
 #### Hosting
 
@@ -28,7 +28,7 @@ In my younger years I played chess competitively, but I haven't played ever sinc
 
 #### Developer Tools
 
-![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white) ![babel](https://img.shields.io/badge/Babel-gray?style=for-the-badge&logo=Babel&logoColor=F9DC3E) ![vscode](https://img.shields.io/badge/VisualStudioCode-1A1F71?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC) ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white) ![eslint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white) ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white) ![babel](https://img.shields.io/badge/Babel-gray?style=for-the-badge&logo=Babel&logoColor=F9DC3E) ![pycharm](https://img.shields.io/badge/Pycharm-1A1F71?style=for-the-badge&logo=Pycharm&logoColor=007ACC) ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white) ![eslint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white) ![androidstudio](https://img.shields.io/badge/AndroidStudio-2496ED?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 
 <!--
 **Ragnaric/Ragnaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
